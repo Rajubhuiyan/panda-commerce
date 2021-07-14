@@ -46,9 +46,7 @@
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
 }
-.card img{
-    width: 400px;
-}
+
 .card-footer{
     border-top: none;
     background-color: white;
