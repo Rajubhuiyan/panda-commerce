@@ -37,7 +37,8 @@
 .categories h1{
     color: white;
 }
-
+.categories img{
+    width: 100px;
 }
 .card{
     border: none;
