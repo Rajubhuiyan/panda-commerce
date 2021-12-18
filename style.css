@@ -42,8 +42,8 @@
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
 }
 
 .card-footer{
@@ -58,4 +58,7 @@
 }
 footer{
     text-align: center;
+}
+.card:hover{
+    box-shadow: 5px 8px 20px lightgray;
 }
